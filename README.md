@@ -26,3 +26,18 @@ Synctree enables you to do these very quickly without servers and codes.
   
  ### Introduction to SyncTree - No code API solution
  [![Introduction to SyncTree - No code API solution](http://img.youtube.com/vi/ipEHN7l4Drg/0.jpg)](https://youtu.be/ipEHN7l4Drg)
+ 
+ 
+# How does it work?
+Synctree is Software-as-a-Service. 
+1. Just visit <https://synctreestudio.com>
+2. Create New Account. 
+3. Create your user account.
+4. Create your first App and Bizunit.
+5. Then simply Drag and Drop function Blocks to make your business logics.
+ 
+
+### How to get started with Synctree Studio
+ [![How to get started with Synctree Studio](http://img.youtube.com/vi/h-6stSQ3sCM/0.jpg)](https://youtu.be/h-6stSQ3sCM)
+
+	
