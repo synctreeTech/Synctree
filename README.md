@@ -18,11 +18,11 @@ All of this can be instantly done in one single tool.
 Synctree is an ideal service to create APIs, Microservices. 
 Synctree enables you to do these very quickly without servers and codes.
 
-## Synctree is serverless 
-  You're not under stress to manage servers.
-## development-environment-free
-  You're not obligated to install anything like sdk, library, IDEs and learn certain programming languages.
-  Just simply creating bizunit and drag ang drop function blocks. That's All.
+ ### Synctree is serverless 
+   You're not under stress to manage servers.
+ ### development-environment-free
+   You're not obligated to install anything like sdk, library, IDEs and learn certain programming languages.
+   Just simply creating bizunit and drag ang drop function blocks. That's All.
   
-## Introduction to SyncTree - No code API solution
-[![Introduction to SyncTree - No code API solution](http://img.youtube.com/vi/ipEHN7l4Drg/0.jpg)](https://youtu.be/ipEHN7l4Drg)
+ ### Introduction to SyncTree - No code API solution
+ [![Introduction to SyncTree - No code API solution](http://img.youtube.com/vi/ipEHN7l4Drg/0.jpg)](https://youtu.be/ipEHN7l4Drg)
