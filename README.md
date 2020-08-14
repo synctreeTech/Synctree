@@ -1,12 +1,21 @@
-# Synctree
-Synctree User Guide including Get Started!!
+# Synctree User Guide
+This is Synctree User Guide including Get Started!!
 
-# Welcome
-	synctree homepage
-		https://synctree101.com/
-	synctree studio
-		https://synctreestudio.com/
-    
+*synctree homepage: <https://synctree101.com>
+*synctree studio: <https://synctreestudio.com>
+
+
+# Welcome    
 SyncTree is a ‘No-Code API Solution’ with a simple ‘Drag and Drop’ graphic interface.
 Coding is replaced by various modularized function blocks, and by combining these blocks, you can easily create business logic, build microservices, and create, publish, manage, test, deploy your APIs.
 All of this can be instantly done in one single tool.
+
+
+# What’s the point?
+Synctree is an ideal service to create APIs, Microservices. Synctree enables you to do these very quickly without servers and codes.
+Synctree is serverless which you're not under stress to manage servers and development-environment free that you're not obligated to install anything like sdk, library, IDEs and learn certain programming languages.
+Just simply creating bizunit and drag ang drop function blocks. That's All.
+
+[![Introduction to SyncTree - No code API solution](http://img.youtube.com/vi/ipEHN7l4Drg/0.jpg)](https://youtu.be/ipEHN7l4Drg)
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ipEHN7l4Drg?list=PLlyPElxxNyaxvlumJKB5pZz9fZyGoFUst" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
