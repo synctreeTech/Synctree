@@ -39,5 +39,7 @@ Synctree is Software-as-a-Service.
 
 ### How to get started with Synctree Studio
  [![How to get started with Synctree Studio](http://img.youtube.com/vi/h-6stSQ3sCM/0.jpg)](https://youtu.be/h-6stSQ3sCM)
-
+ 
+### Orchestrating 3 separate APIs into one platform in 30 mins
+[![Orchestrating 3 separate APIs into one platform in 30 mins](http://img.youtube.com/vi/7r_5bUudjbs/0.jpg)](https://youtu.be/7r_5bUudjbs)
 	
