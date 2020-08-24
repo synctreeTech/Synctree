@@ -43,3 +43,10 @@ Synctree is Software-as-a-Service.
 ### Orchestrating 3 separate APIs into one platform in 30 mins
 [![Orchestrating 3 separate APIs into one platform in 30 mins](http://img.youtube.com/vi/7r_5bUudjbs/0.jpg)](https://youtu.be/7r_5bUudjbs)
 	
+
+
+# Get Started!
+These tutorials are practical examples that help you to use Synctree right away.
+
+### Essential Tutorial Series recommanded that you watch in order. They cover basic usages.
+[![Hello World](http://img.youtube.com/vi/Kov8JaVMfQE/0.jpg)](https://youtu.be/Kov8JaVMfQE)
