@@ -49,5 +49,5 @@ Synctree is Software-as-a-Service.
 These tutorials are practical examples that help you to use Synctree right away.
 They cover basic usages.
 
-### Tutorial Series
+### Basic Tutorial Series
 [![Welcome to Synctree](http://img.youtube.com/vi/Kov8JaVMfQE/0.jpg)](https://www.youtube.com/playlist?list=PLlyPElxxNyayTl0cBLH7ACcQtDIkrByJp)
